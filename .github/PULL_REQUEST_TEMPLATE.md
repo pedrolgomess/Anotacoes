@@ -1,11 +1,11 @@
 <h2>FORMULÁRIO PULL REQUEST DE ENVIO PARA JANELA</h2>
 
-<i><b>FONTE/ PATCH:</b></i> NOME DO FONTE
+<i><b>FONTE/ PATCH:</b></i> Nome
 
-<i><b>SOLUÇÃO:</b></i> SOLUÇÃO DO QUE FOI FEITO
+<i><b>SOLUÇÃO:</b></i> Solução
 
-<i><b>NÚNERO DO CHAMADO:</b></i> NÚMERO DO CHAMADO
+<i><b>NÚNERO DO CHAMADO:</b></i> Número
 
-<i><b>DESENVOLVEDOR:</b></i> @mentions
+<i><b>DESENVOLVEDOR:</b></i> Seu nome
 
-<i><b>AMBIENTE PARA COMPILAR</b></i> GUARAVES
+<i><b>AMBIENTE PARA COMPILAR</b></i> Guaraves
